@@ -1,16 +1,19 @@
-### Hi there 👋
+###  🍀 Hi there!
 
-<!--
-**dlghgus5656/dlghgus5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://velog.io/@dlghgus5656">
+    <img 
+        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dlghgus5656"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://notion.so/hohyeon-portfolio">
+    <img 
+        src="http://img.shields.io/badge/-Notion-222222?style=flat&logo=Notion&link=https://notion.so/hohyeon-portfolio"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![dlghgus5656's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlghgus5656&show_icons=true&theme=midnight-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlghgus5656&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoz)](https://solved.ac/hoz)
