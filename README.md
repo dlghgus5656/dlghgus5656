@@ -1,6 +1,6 @@
 <div align="center">
     
-###  🍀 Hi there!
+#  🍀 Hello, I'am HoHyeon
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlghgus5656&count_bg=%2379C83D&title_bg=%230F0E0E&icon=smugmug.svg&icon_color=%23FDFDFD&title=hits&edge_flat=false)](https://https://github.com/dlghgus5656)
     
@@ -18,7 +18,6 @@
 </br>
    
 ## 🎨Experience Stack🎨
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -40,7 +39,6 @@
 
 
 ## 🎬Experience Tools🎬
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
@@ -48,6 +46,8 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gather-6A5FBB?style=flat-square&logo=Gather&logoColor=white"/>
+
+# 
 
 ![dlghgus5656's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlghgus5656&show_icons=true&theme=midnight-purple)
 
