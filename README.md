@@ -16,11 +16,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </br>
-
-![dlghgus5656's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlghgus5656&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlghgus5656&layout=compact&theme=midnight-purple&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoz)](https://solved.ac/hoz)
    
 ## 🎨Experience Stack🎨
 
@@ -54,9 +49,9 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gather-6A5FBB?style=flat-square&logo=Gather&logoColor=white"/>
 
+![dlghgus5656's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlghgus5656&show_icons=true&theme=midnight-purple)
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlghgus5656&layout=compact&theme=midnight-purple&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoz)](https://solved.ac/hoz)
 
 </div>
