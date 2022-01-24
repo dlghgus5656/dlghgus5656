@@ -2,13 +2,13 @@
 
 <a href="https://notion.so/hohyeon-portfolio">
     <img 
-        src="http://img.shields.io/badge/-Notion-222222?style=flat&logo=Notion&link=https://notion.so/hohyeon-portfolio"
+        src="http://img.shields.io/badge/-Notion_portfolio-222222?style=flat&logo=Notion&link=https://notion.so/hohyeon-portfolio"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="https://velog.io/@dlghgus5656">
     <img 
-        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dlghgus5656"
+        src="http://img.shields.io/badge/-Velog_blog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dlghgus5656"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
