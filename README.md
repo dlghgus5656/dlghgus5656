@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 # 
-
+midnight-purple
 ![dlghgus5656's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlghgus5656&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlghgus5656&layout=compact&theme=midnight-purple&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
