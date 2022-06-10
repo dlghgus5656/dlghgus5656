@@ -61,7 +61,8 @@
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 #
-![dlghgus5656's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlghgus5656&show_icons=true&theme=moltack) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlghgus5656&layout=compact&theme=moltack&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)    
+![dlghgus5656's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlghgus5656&show_icons=true&theme=moltack)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlghgus5656&layout=compact&theme=moltack&langs_count=6) ](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoz)](https://solved.ac/hoz)
 </div>
