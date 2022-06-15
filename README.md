@@ -7,7 +7,7 @@
 ## 👀About Me👀  
 <a href="https://notion.so/hohyeon-portfolio">
     <img 
-        src="http://img.shields.io/badge/-Notion_portfolio-222222?style=flat&logo=Notion&link=https://notion.so/hohyeon-portfolio"
+        src="http://img.shields.io/badge/-Notion_portfolio-222222?style=flat&logo=Notion&link=https://notion.so/hoh-e"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
