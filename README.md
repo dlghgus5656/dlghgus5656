@@ -4,7 +4,7 @@
 <!-- #  🍀 Hello, I'am HoHyeon -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlghgus5656&count_bg=%2379C83D&title_bg=%230F0E0E&icon=smugmug.svg&icon_color=%23FDFDFD&title=hits&edge_flat=false)](https://https://github.com/dlghgus5656)
  
-## 👀About Me👀  
+## 👀 About Me 👀  
 <a href="https://notion.so/hoh-e">
     <img 
         src="http://img.shields.io/badge/-Notion_portfolio-222222?style=flat&logo=Notion&link=https://notion.so/hoh-e"
@@ -18,7 +18,7 @@
 </a>
 </br>
    
-## 🎨Experience Stack🎨
+## 🎨 Tech Stack 🎨
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -46,7 +46,7 @@
 
 
 
-## 🎬Experience Tools🎬
+## 🎬 Tools 🎬
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub Desktop-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
