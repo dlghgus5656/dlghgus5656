@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hohyeon%20Lee :)&fontSize=80&animation=twinkling&fontAlignY=45" />    
+
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hohyeon%20Lee:\)&fontSize=80&animation=twinkling&fontAlignY=45)
  
 <!-- #  🍀 Hello, I'am HoHyeon -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlghgus5656&count_bg=%2379C83D&title_bg=%230F0E0E&icon=smugmug.svg&icon_color=%23FDFDFD&title=hits&edge_flat=false)](https://https://github.com/dlghgus5656)
