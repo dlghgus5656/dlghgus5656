@@ -1,6 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=HoHyeon%20Lee%20:)&animation=twinkling&fontColor=ffffff&fontSize=70" />
- <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlghgus5656%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+ <div style="text-align: left;">
        </div> 
     </div>
       <div style="text-align: left;">
