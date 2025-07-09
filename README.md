@@ -3,6 +3,15 @@
  <div style="text-align: left;">
        </div> 
     </div>
+    <div align= "center">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dlghgus5656&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/dlghgus5656"
+          width="800"
+          height="500"
+        />
+    </a>
+    </div>
       <div style="text-align: left;">
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Blog </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@dlghgus5656> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dlghgus5656"> </a>
